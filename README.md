@@ -19,6 +19,6 @@ The mouse can only be captured if we either click inside xenia's window, or if w
 ## Bugs, issues & details
 If the trainer crashes and closes, xenia may need to be closed if his memory didn't got restored before the trainer closed, try re-opening the trainer and see if the script can be enabled.
 
-If a 'lua engine' window opens, that means something failed and the trainer needs to be restarted, close the lua engine window first and then close the trainer, otherwise the trainer may not close entirely and it will need to be manually closed through the task manager.
+If a "lua engine" window opens, that means something failed and the trainer needs to be restarted, close the lua engine window first and then close the trainer, otherwise the trainer may not close entirely and it will need to be manually closed through the task manager.
 
 Anything on top of the window, even while on fullscreen, will be able to be clicked (like a notification or the task bar).
