@@ -29,7 +29,7 @@ Anything on top of the window, even while on fullscreen, will be able to be clic
 
 ## Thanks to
 
-zhm86: for making the "Camera mouse controller for Ryujinx" script that inspired me to make one for xenia.
+zhm86: for making the [Camera mouse controller for Ryujinx](https://gamebanana.com/scripts/11752) script that inspired me to make one for xenia.
 
 Cheat Engine: for the software and documentation.
 
