@@ -3,7 +3,7 @@ This script introduces PC controls into Xenia Canary for Red Dead Redemption Gam
 
 This was intended to be used on Xenia Canary @ec267c358 (6/13/24) for RDR GOTY Edition, however, you could try using it on a different version of xenia or the other versions of RDR.
 
-The script gives full control of the camera like a native PC game and removes any kind of aim assist the game has, however, there are cases where instead of using the new mouse camera, L-Stick inputs will be simulated to move the camera instead, like for mounted weapons, as they really didn't needed their own custom camera, or when we take cover for the first time, as we can only locate the code related to the in-cover camera once we have taken cover at least once.
+The script gives full control of the camera like a native PC game and removes any kind of aim assist the game has, however, there are cases where instead of using the new mouse camera, L-Stick inputs will be simulated to move the camera instead, like when we take cover for the first time, as we can only locate the code related to the in-cover camera once we have taken cover at least once.
 
 The trainer may get flagged by the anti-virus as malware, this is because Cheat Engine is used as a hacking tool, in that case, you will have to make an exception for the file.
 
@@ -26,6 +26,8 @@ If the trainer crashes and closes, xenia may need to be closed if his memory did
 If a "Lua Engine" window opens, that means something failed and the trainer needs to be restarted, close the Lua Engine window first and then close the trainer, otherwise the trainer may not close entirely and it will need to be manually closed through the task manager.
 
 Anything on top of the window, even while on Fullscreen, will be able to be clicked (like a notification or the task bar).
+
+Some patches or settings may have conflicts with the script. If you are having problems, try using Xenia's default settings with no game patches.
 
 ## Thanks to
 
