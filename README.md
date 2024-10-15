@@ -1,7 +1,10 @@
 # rdr-pc-controls-xenia
+
+> **I would recommend using the [Mousehook](https://github.com/marinesciencedude/xenia-canary-mousehook) fork of Xenia Canary instead of this as it has support for most RDR versions and many other games, as well as multiplayer support. Mousehook's RDR support is also partially derived from this so it's better using it overall even if you are only interested in RDR.**
+
 This script introduces PC controls into Xenia Canary for Red Dead Redemption Game of the Year Edition (Single Player and Undead Nightmare). It has his own trainer where key binds, sensitivity and other settings are changed.
 
-This was intended to be used on Xenia Canary @ec267c358 (6/13/24) for RDR GOTY Edition, however, you could try using it on a different version of xenia or the other versions of RDR.
+This was intended to be used on Xenia Canary [@ec267c348](https://github.com/xenia-canary/xenia-canary/releases/tag/ec267c3) (6/13/24) for RDR GOTY Edition, however, you could try using it on a different version of xenia or the other versions of RDR.
 
 The script gives full control of the camera like a native PC game and removes any kind of aim assist the game has, however, there are cases where instead of using the new mouse camera, L-Stick inputs will be simulated to move the camera instead, like when we take cover for the first time, as we can only locate the code related to the in-cover camera once we have taken cover at least once.
 
